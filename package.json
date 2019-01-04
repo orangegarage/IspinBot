@@ -1,0 +1,14 @@
+{
+  "name": "science vessel",
+  "version": "1.0.0",
+  "description": "Science Vessel 'The Ispin Charles- Property of the Umojan Protectorate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "discord.js": "^11.4.2",
+    "axios.js": "^0.18.0"
+  },
+  "author": "Jin"
+}
